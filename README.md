@@ -1,6 +1,6 @@
-# Binary-Classification
+# LR vs KNN
 
-The 'Sonar data' file consists on a bunch of unlabeled data that give an outcome of either
+The 'Sonar data' file consists of a bunch of unlabeled data that give an outcome of either
  'R' for Rock, 
  'M' for Mine
 
